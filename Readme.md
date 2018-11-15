@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgDataGrid_CellClick/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_CellClick/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_CellClick/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_CellClick/MainPage.xaml))
+<!-- default file list end -->
 # How to Identify the Clicked Data Cell
 
 
