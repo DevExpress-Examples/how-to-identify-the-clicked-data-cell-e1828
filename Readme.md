@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/AgDataGrid_CellClick/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_CellClick/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/AgDataGrid_CellClick/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_CellClick/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_CellClick/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AgDataGrid_CellClick/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Identify the Clicked Data Cell
 
